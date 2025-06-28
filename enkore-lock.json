@@ -13,6 +13,18 @@
         },
         "project/src/getPathInformationSync.ts": {
             "hash": "aa3e2987c9ab5dad5d261ccc166711120e246f85e5503f8509c70a219ffc157c"
+        },
+        "project/export/getPathInformationFactory.ts": {
+            "hash": "06f59bd8d88493b41b2f5eab9e34d4f3efa9762440a73a2cc0d7b367e333ccb1"
+        },
+        "project/export/getPathInformation.ts": {
+            "hash": "78150b11d4132404ea0ffbdedf89c40be05cc1650197c7ad8bee77cf84756d54"
+        },
+        "project/export/getPathInformationSyncFactory.ts": {
+            "hash": "b1f8c189c5cb8081dd61f9b65696668180a905659e58d01808489d85ee668ee0"
+        },
+        "project/export/getPathInformationSync.ts": {
+            "hash": "3da3a4c7bb1315d686c8b2cf136ac28be4397e4380b899d50a56b559408c8197"
         }
     }
 }

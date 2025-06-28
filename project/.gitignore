@@ -2,3 +2,7 @@
 # DO NOT ADD ENTRIES HERE, THEY WILL BE REMOVED
 /src/getPathInformation.ts
 /src/getPathInformationSync.ts
+/export/getPathInformationFactory.ts
+/export/getPathInformation.ts
+/export/getPathInformationSyncFactory.ts
+/export/getPathInformationSync.ts
